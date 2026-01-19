@@ -1,0 +1,16 @@
+{
+  "name": "cashbridge-pay",
+  "version": "1.0.0",
+  "description": "Fintech cash-in/cash-out API for CashBridge Pay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["fintech", "payments", "express", "mlh"],
+  "author": "Getinet",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
