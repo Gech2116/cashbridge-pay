@@ -30,5 +30,5 @@ This project is part of my learning journey in software development and financia
 This project is under active development.
 
 ## 👤 Author
-**Getinet (Gech2116)**  
+**Getaneh Hunegnaw (Gech2116)**  
 Aspiring software developer & fintech enthusiast
